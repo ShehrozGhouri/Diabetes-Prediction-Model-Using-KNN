@@ -1,4 +1,4 @@
-# 🩺 Pima Indians Diabetes Prediction Using K-Nearest Neighbors (KNN)
+# 🩺 Diabetes Prediction Using K-Nearest Neighbors (KNN)
 
 This repository contains an end-to-end Binary Classification machine learning pipeline built to predict whether a patient has diabetes based on diagnostic and medical measurements. The project focuses heavily on rigorous data preprocessing, invalid data imputation, feature scaling, and performance evaluation using the **K-Nearest Neighbors (KNN)** algorithm.
 
@@ -68,8 +68,8 @@ The confusion matrix highlights exactly how the model's predictions match up aga
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/diabetes-knn-prediction.git](https://github.com/your-username/diabetes-knn-prediction.git)
-    cd diabetes-knn-prediction
+    git clone [https://github.com/ShehrozGhouri/Diabetes-Prediction-Model-Using-KNN.git](https://github.com/ShehrozGhouri/Diabetes-Prediction-Model-Using-KNN.git)
+    cd Diabetes-Prediction-Model-Using-KNN
     ```
 
 2.  **Install Required Dependencies:**
